@@ -8,7 +8,6 @@ dependencies:
     - bottleneck    # C-optimized array functions for NumPy
     - cartopy       # Geographic plotting toolkit
     - dask          # Parallel processing library
-    - datetime      # Datetime Module
     - geopy         # For easy distance calculation
     - h5py          # Wrapper for HDF5
     - ipython       # IPython interpreter and tools
